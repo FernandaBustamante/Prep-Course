@@ -1,0 +1,84 @@
+
+
+
+body{  
+    box-sizing: flex;
+    display:block;
+    background-image: url("Naranja.jpg");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    backdrop-filter: blur(2px);
+}
+
+h1 {
+    color: #582B2B;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    font-style: italic;
+   
+}
+
+#h {
+    color:#514646;
+    font-size: 20px;
+    text-align: center;
+    font-style: oblique;
+}
+
+img {
+    width: 800px;
+    height: 800px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid white;
+    text-align: center;
+
+    
+    
+}
+
+#thirdDiv {
+
+    height: 1800px;
+    width: 2000px;
+    background-color: #f2d2db;
+    border: 10px solid #DA2828;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    display:block;
+    margin:auto;
+    text-align: center;
+    
+}
+
+
+.divClass{
+    text-align: center;
+    font-style: oblique;
+    text-decoration: dotted;
+    
+}
+
+#spanId {
+
+    font-size: 25px;
+    margin-bottom:  35px;
+    margin-top: 30px;
+    text-align: center;
+    display:block;
+
+ 
+}
+
+.link {
+
+   font-size: 30px;
+   margin-top: 5px;
+   margin-bottom: 35px;
+   text-decoration:none;
+   color: white;
+   display:block;
+   -webkit-text-stroke: 1px salmon;
+ 
+
+}
